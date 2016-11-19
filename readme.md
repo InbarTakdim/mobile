@@ -1,8 +1,13 @@
-# קורס אפליקציות למובייל 
-האפליקציה מהווה את התרגיל הראשון והשני בקורס.
+#Mobile
+This app can calculate sum of two numbers.
 
-###תוכן האפליקציה:
-באפליקציה ישנם  שדות input
-בכל אחת מהם יש להזין ערך מספרי
-לאחר מכן ללחוץ על כפתור השליחה
-והסכום של שניהם יופיע!
+<br>
+
+###User Interface:
+1.Edith Text to enter the first number.
+2.Edith Text to enter the seconed number.
+3.Button to send the two numbers.
+4.Text Field which shows the sum of the two above.
+
+
+by Inbar Takdim.
